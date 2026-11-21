@@ -9,6 +9,9 @@ I enjoy understanding how physical systems work and developing computational or 
 ## Projects
 
 ### Electromagnetism Simulator
+
+[View repository](https://github.com/victorkaradjov/electromagnetism-simulator)
+
 *Personal project — In progress*
 
 - Exploring numerical solutions to Maxwell's equations.
